@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "보여줄게",
+  "base_artist": "AILEE",
+  "createdAt": "2026-02-28T16:19:58.706403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "보여줄게 (나한테 걸리면 마이아파~ 동막골소녀)",
+      "artist": "Solji",
+      "has_synced": true,
+      "path": "select/01_보여줄게_(나한테_걸리면_마이아파~_동막골소녀)_Solji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I will show you (보여줄게)",
+      "artist": "에일리(Ailee), HEDY, 김새하, and 박혜진",
+      "has_synced": true,
+      "path": "select/02_I_will_show_you_(보여줄게)_에일리(Ailee),_HEDY,_김새하,_and_박혜진.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "보여줄게(나한테 걸리면 마이아파~ 동막골소녀)",
+      "artist": "솔지",
+      "has_synced": true,
+      "path": "select/03_보여줄게(나한테_걸리면_마이아파~_동막골소녀)_솔지.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Will Show You 보여줄게 (Originally Performed by Ailee 에일리) [Karaoke Version]",
+      "artist": "Karaoke K-Pop Bar",
+      "has_synced": false,
+      "path": "select/04_I_Will_Show_You_보여줄게_(Originally_Performed_by_Ailee_에일리)_[Karaoke_Version]_Karaoke_K-Pop_Bar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Show You 보여줄게",
+      "artist": "Korean Poptastic",
+      "has_synced": true,
+      "path": "select/05_I_Will_Show_You_보여줄게_Korean_Poptastic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "보여줄게",
+      "artist": "에일리",
+      "has_synced": false,
+      "path": "select/pl_01_보여줄게_에일리.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "보여줄게",
+      "artist": "에일리",
+      "has_synced": false,
+      "path": "select/pl_02_보여줄게_에일리.txt"
+    }
+  ]
+}
